@@ -24,8 +24,6 @@ Sh0rTn3y2024 Readme.md
 
 
 #Who I am
-<!--
-
 
 - 🔭 I’m currently working on ...
 -#SaveEarth4Lilith
@@ -40,10 +38,12 @@ How to save Earth
 
 - 📫 How to reach me: ...
 
-    *Courtney.v.brown2024@gmail.com
-                                *https://www.facebook.com/sh0rtney/
-                                *www.linkedin.com/in/sh0rtn3y
-- 😄 Pronouns: ... She/her/it/me/eldudareno/dudette/mom/ma/mom/mommy/chick/You with the face
+   *Courtney.v.brown2024@gmail.com
+   *https://www.facebook.com/sh0rtney/
+   *www.linkedin.com/in/sh0rtn3y
+
+- 😄 Pronouns: ...             
+She/her/it/me/eldudareno/dudette/mom/ma/mom/mommy/chick/You with the face
 - ⚡ Fun facts: ... 
 *I am self taught in natural healing methods
     *went to college for Buisness Admin
@@ -52,6 +52,5 @@ How to save Earth
     *Also a business/artist promoter
     * Am a registered Northwest Native Artist from the Haida Tribe
         - I am apart of the Eagle-Frog Clan.
--->
 
 
